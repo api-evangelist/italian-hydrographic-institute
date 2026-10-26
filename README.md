@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Italian Hydrographic Institute is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.marina.difesa.it/noi-siamo-la-marina/pilastro-logistico/scientifici/
+The Italian Hydrographic Institute (Istituto Idrografico della Marina Militare) is part of the Italian Navy, responsible for marine hydrography, oceanographic research, and supporting naval operations with nautical charts, tide predictions, and maritime safety data. It provides scientific and technical expertise in oceanography, hydrography, and related maritime domains, serving both military and civilian stakeholders.
+
+**Areas:** Company · Hydrography · Oceanography · Maritime · Italy · Navy
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.marina.difesa.it/noi-siamo-la-marina/pilastro-logistico/scientifici/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/italian-hydrographic-institute/](https://apis.io/providers/italian-hydrographic-institute/).
